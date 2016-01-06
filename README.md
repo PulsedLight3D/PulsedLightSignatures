@@ -22,7 +22,7 @@ Currently we have no specific algorithms or solutions for determining the identi
 
 ***NOTE:*** *Where specific range-finding technology is referenced, we use the LIDAR-Lite v2 module by PulsedLight but is applicable to other rangefinding devices. *
 
-Concept Illustrations Video: [https://vimeo.com/150323380/settings](https://vimeo.com/150323380/settings)
+Concept Illustrations Video: [https://vimeo.com/150323380/](https://vimeo.com/150323380/)
 
 ## Introduction
 ## Doorways
